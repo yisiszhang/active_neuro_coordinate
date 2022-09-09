@@ -1,0 +1,20 @@
+% ROUTINES
+%
+% Files
+
+%   A_to_f          - Calculates A(f), in the frequency domain.
+%   arfitcaps       - Capsule to call ARfit algorithm for VAR estimation
+%   asymp_pdc       - Core routine to compute PDC+asymptotic statistics.
+%   cmlsm           - VAR least squares estimator
+%   coh_alg         - Compute coherence function from SS
+%   gct_alg         - Perform GCT and IGCT
+%   getCij          - Extract one of (i,j) element of c structure, i.e. Cij
+%   mcarns          - VAR Nuttall-Strand algorithm
+%   mcarvm          - VAR estimation using Vieira Morf algorithm
+%   mvar            - Capsule for VAR estimation
+%   mvarresidue     - Residues test for whiteness
+%   pdc_alg         - Compute partial directed coherence and asymptotic statistics.
+%   pdc_xplot       - Connectivity plot in matrix layout with power spectra in the main diagonal 
+%   pdc_xplot_title - Put title above all subplot drawn by pdc_xplot.
+%   ss_alg          - Calculates the Spectral density (SS)
+%   standardize     - Standardization preprocessing of time series

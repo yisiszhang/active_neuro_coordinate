@@ -1,0 +1,4 @@
+exemplo_ts_z
+exemplo_ts_zm
+exemplo_ts_zm1
+exemplo_ts_zm2
